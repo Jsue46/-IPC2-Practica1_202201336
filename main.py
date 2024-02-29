@@ -294,6 +294,5 @@ def reporteCompra():
     else:
         print("opcion invalida")
         main()
-
-    
+  
 main()
